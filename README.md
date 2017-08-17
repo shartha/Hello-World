@@ -1,2 +1,2 @@
 # Hello-World
-Good thin
+Good thing
